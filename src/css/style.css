@@ -1,4 +1,9 @@
-body {
+@font-face {
+    font-family: 'GROBOLD';
+    src: url(../fonte/GROBOLD.ttf) format('truetype');
+}
+
+body {    
     font-family: 'GROBOLD', Arial, Helvetica, sans-serif;
     color: black;
 }
