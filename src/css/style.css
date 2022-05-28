@@ -60,15 +60,9 @@ body::before {
     transition: 0.15s ease-in-out;
 }
 
-/* .selecao-filhotes .filhotes .filhote.hidden img {    
-    visibility: hidden;    
-} */
-
 .selecao-filhotes .filhotes .filhote .opcao.hidden {
     z-index: 0;
 }
-
-
 
 .selecao-filhotes .filhotes .filhote img {
     width: 100%;
