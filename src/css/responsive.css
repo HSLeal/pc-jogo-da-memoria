@@ -1,0 +1,11 @@
+@media (max-width: 898px) {
+    .selecao-filhotes .filhotes .filhote {
+        width: 30%;
+    }
+}
+
+@media (max-width: 500px) {
+    .titulo {
+        font-size: 40px;
+    }
+}
