@@ -69,4 +69,8 @@ body::before {
     height: 100%;
 }
 
+.selecao-filhotes .filhotes .filhote .revelado {
+    pointer-events: none;
+}
+
 
